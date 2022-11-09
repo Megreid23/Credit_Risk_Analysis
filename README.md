@@ -6,7 +6,7 @@ The purpose of this analysis is to identify credit card risk for high versus low
 ## Results
 
 Results of splitting and training data
-![split_test_train.png](./Data/split_test_train.png)
+![split_test_train.png](./Data/split_train_test.png)
 
 Results of RandomOverSampler
 ![oversampling.png](./Data/oversampling.png)
